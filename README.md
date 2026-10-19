@@ -34,7 +34,6 @@ I build with Claude Code as my pair programmer: I decide what to build, write th
 | Site | What it is |
 |---|---|
 | [ICDI Solar](https://teal-blancmange-5daff6.netlify.app) | Concept site (client mockup) for a rooftop-solar company, with an interactive 3D scene. |
-| [Tanishq Malvi](https://tanishq-malvi-portfolio.netlify.app) | Portfolio site for a client. |
 | [Frameshift](https://frameshiftanimation.netlify.app) | Video showcase where scrolling scrubs through the actual footage. |
 | [My portfolio](https://prabportfolio.netlify.app) | Projects and analysis work in one place. |
 
